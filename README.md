@@ -1,9 +1,9 @@
-CS 3340 Computer Architecture Lexathon Final Project
+#CS 3340 Computer Architecture Lexathon Final Project
 
-###LEXATHON - An addicting word search game!
+#LEXATHON - An addicting word search game!
 ##Programmed in MIPS Assembly
 
-#Created by Amanda Truong, Patrick Deng, Mai Tran
+###Created by Amanda Truong, Patrick Deng, Mai Tran
 
 **The features of this implementation of Lexathon include:**
 
